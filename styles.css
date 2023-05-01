@@ -1,0 +1,51 @@
+body {
+    background-color: lightskyblue;
+}
+
+header {
+    position: relative;
+}
+
+form {
+    position: absolute;
+    text-align: center;
+    float: right;
+    top: -10px;
+    right: 0px;
+}
+
+#poster {
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: lightcoral;
+    border-style: double;
+    width: fit-content;
+}
+
+#navbar-left {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    background-color: lightskyblue;
+    height: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#section-right {
+    margin-top: 10px;
+    padding-top: 1px;
+    background-color: white;
+    height: 1000px;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
